@@ -9,7 +9,7 @@
 	Artifact:springboot
 	
 	初级化后的最初的项目在init目录下springboot.zip
-# 环境安装
+# 环境安装(mac)
 	brew tap pivotal/tap
 	brew install springboot
 	brew update springboot
